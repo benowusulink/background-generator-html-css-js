@@ -1,0 +1,59 @@
+/* all elements */
+
+* {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+}
+
+/* Body and main of the app */
+body {
+  height: 800px;
+  width: 100%;
+}
+
+main {
+  height: 100%;
+  width: 100%;
+  border: solid rgb(221, 221, 221) 6px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+/* logo */
+img {
+  border: solid rgb(206, 206, 206, 0.3) 3px;
+  width: 250px;
+  height: auto;
+  margin-right: 75%;
+  margin-top: 2%;
+}
+
+img:hover {
+  border: solid white 3px;
+}
+
+/* Main header */
+h1 {
+  text-transform: uppercase;
+  font-size: 50px;
+  margin-top: -7%;
+  margin-bottom: 3%;
+  color: rgb(221, 221, 221);
+}
+
+/* App description */
+
+h3 {
+  margin-bottom: 3%;
+  color: rgb(221, 221, 221);
+}
+
+/* input2 */
+#colour2 {
+  margin-bottom: 2%;
+}
+
+/* imput colour result */
+#colour-result {
+  color: rgb(221, 221, 221);
+}
