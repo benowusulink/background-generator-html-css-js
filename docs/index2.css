@@ -1,0 +1,16 @@
+@media only screen and (max-width: 1300px) {
+  img {
+    width: 150px;
+    height: auto;
+   
+  }
+
+  h1 {
+    font-size: 30px;
+    margin-top: 5%;
+  }
+
+  h3 {
+    font-size: 20px;
+  }
+}
