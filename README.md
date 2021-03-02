@@ -6,7 +6,7 @@ Background Generator - html-css-js
 
 This website is a basic generic landing page 
 for selecting linear RGBA values for 
-background image properties within CSS .
+background image properties within CSS.
 
 The aim of this website is to showcase simplistic 
 HTML, CSS and JAVASCRIPT usage.
